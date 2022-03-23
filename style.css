@@ -1,0 +1,24 @@
+h1 {
+    background-color: black;
+}
+
+.My {
+    color: white;
+}
+
+.Cloud {
+    color:aqua;
+}
+
+h2 {
+    color: white;
+    background-color: purple;
+    text-align: center;
+}
+
+h3 {
+    color: purple;
+    background-color: lightblue;
+    text-align: right;
+    text-decoration: underline;
+}
